@@ -1,0 +1,12 @@
+"app.name" = "Simple Middle Click";
+"menu.settings" = "设置";
+"menu.quit" = "退出";
+"settings.language" = "语言";
+"settings.launch_at_login" = "开机自启";
+"language.english" = "英文";
+"language.simplified_chinese" = "简体中文";
+"language.japanese" = "日文";
+"accessibility.title" = "需要辅助功能权限";
+"accessibility.message" = "Simple Middle Click 需要辅助功能权限，才能在你三指轻触触控板时发送鼠标中键点击。点击确认后会打开系统设置，请在辅助功能中启用 Simple Middle Click。检测到授权后，应用会自动重启。";
+"button.confirm" = "确认";
+"button.later" = "稍后";

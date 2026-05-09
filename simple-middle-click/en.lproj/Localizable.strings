@@ -1,0 +1,12 @@
+"app.name" = "Simple Middle Click";
+"menu.settings" = "Settings";
+"menu.quit" = "Quit";
+"settings.language" = "Language";
+"settings.launch_at_login" = "Launch at login";
+"language.english" = "English";
+"language.simplified_chinese" = "Simplified Chinese";
+"language.japanese" = "Japanese";
+"accessibility.title" = "Accessibility Permission Required";
+"accessibility.message" = "Simple Middle Click needs Accessibility permission to send middle mouse clicks when you tap the trackpad with three fingers. Click Confirm to open System Settings and enable Simple Middle Click in Accessibility. The app will restart automatically after authorization is detected.";
+"button.confirm" = "Confirm";
+"button.later" = "Later";

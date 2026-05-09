@@ -1,0 +1,12 @@
+"app.name" = "Simple Middle Click";
+"menu.settings" = "設定";
+"menu.quit" = "終了";
+"settings.language" = "言語";
+"settings.launch_at_login" = "ログイン時に起動";
+"language.english" = "英語";
+"language.simplified_chinese" = "簡体字中国語";
+"language.japanese" = "日本語";
+"accessibility.title" = "アクセシビリティ権限が必要です";
+"accessibility.message" = "Simple Middle Click は、トラックパッドを3本指で軽くタップしたときにミドルクリックを送信するため、アクセシビリティ権限が必要です。確認をクリックしてシステム設定を開き、アクセシビリティで Simple Middle Click を有効にしてください。権限が検出されると、アプリは自動的に再起動します。";
+"button.confirm" = "確認";
+"button.later" = "後で";
